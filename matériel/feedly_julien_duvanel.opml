@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Julien subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Divers" title="Divers">
+            <outline type="rss" text="Les joies du sysadmin" title="Les joies du sysadmin" xmlUrl="http://lesjoiesdusysadmin.tumblr.com/rss" htmlUrl="https://lesjoiesdusysadmin.tumblr.com/"/>
+            <outline type="rss" text="the_coding_love();" title="the_coding_love();" xmlUrl="http://thecodinglove.com/rss" htmlUrl="https://thecodinglove.com"/>
+            <outline type="rss" text="Geek And Poke" title="Geek And Poke" xmlUrl="http://feeds.feedburner.com/GeekAndPoke" htmlUrl="http://geek-and-poke.com/"/>
+            <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+            <outline type="rss" text="CommitStrip" title="CommitStrip" xmlUrl="http://www.commitstrip.com/fr/feed/" htmlUrl="http://www.commitstrip.com"/>
+            <outline type="rss" text="LEARN SOMETHING EVERY DAY" title="LEARN SOMETHING EVERY DAY" xmlUrl="http://cargocollective.com/rss/learnsomethingeveryday" htmlUrl="http://cargocollective.com"/>
+            <outline type="rss" text="Ingenieur quand meme" title="Ingenieur quand meme" xmlUrl="http://ingenieurquandmeme.tumblr.com/rss" htmlUrl="https://ingenieurquandmeme.tumblr.com/"/>
+        </outline>
+        <outline text="Dev" title="Dev">
+            <outline type="rss" text="Super Development" title="Super Development" xmlUrl="http://superdevelopment.com/feed" htmlUrl="https://superdevelopment.com"/>
+            <outline type="rss" text="WebAppersWebAppers" title="WebAppersWebAppers" xmlUrl="http://feeds.feedburner.com/Webappers" htmlUrl="https://www.webappers.com"/>
+            <outline type="rss" text="bluetooth-dev Mailing List" title="bluetooth-dev Mailing List" xmlUrl="http://rss.lists.apple.com/bluetooth-dev.rss" htmlUrl="http://prod.lists.apple.com/archives/bluetooth-dev/2016/Dec/index.html"/>
+            <outline type="rss" text="Little Big Details" title="Little Big Details" xmlUrl="http://littlebigdetails.com/rss" htmlUrl="https://littlebigdetails.com/"/>
+            <outline type="rss" text="Google Analytics - Changelog - All" title="Google Analytics - Changelog - All" xmlUrl="https://developers.google.com/analytics/changelogs/xml/analytics.xml"/>
+            <outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" htmlUrl="https://nshipster.com/"/>
+            <outline type="rss" text="Impressive Webs" title="Impressive Webs" xmlUrl="http://feeds.feedburner.com/ImpressiveWebs" htmlUrl="https://www.impressivewebs.com"/>
+            <outline type="rss" text="bou.io" title="bou.io" xmlUrl="http://bou.io/atom.xml" htmlUrl="http://bou.io/"/>
+            <outline type="rss" text="samvermette.com" title="samvermette.com" xmlUrl="http://samvermette.com/.rss" htmlUrl="http://samvermette.com"/>
+            <outline type="rss" text="Ajaxian » Front Page" title="Ajaxian » Front Page" xmlUrl="http://feeds.feedburner.com/ajaxian" htmlUrl="http://ajaxian.com"/>
+            <outline type="rss" text="The Morning Brew" title="The Morning Brew" xmlUrl="http://feeds.feedburner.com/ReflectivePerspective" htmlUrl="http://blog.cwa.me.uk"/>
+            <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/"/>
+            <outline type="rss" text="ZURBlog" title="ZURBlog" xmlUrl="http://feeds.feedburner.com/zurb/blog" htmlUrl="http://zurb.com/blog/posts"/>
+            <outline type="rss" text="Vluxe" title="Vluxe" xmlUrl="http://vluxe.io/feed.xml" htmlUrl="http://vluxe.io/"/>
+            <outline type="rss" text="CsharpStar" title="CsharpStar" xmlUrl="http://csharpstar.com/feed/" htmlUrl="https://www.csharpstar.com"/>
+            <outline type="rss" text="Sitefinity Tips and Tricks" title="Sitefinity Tips and Tricks" xmlUrl="http://www.sitefinitytipsandtricks.net/rss/" htmlUrl="https://www.sitefinitytipsandtricks.net/"/>
+            <outline type="rss" text="Visual Studio Magazine" title="Visual Studio Magazine" xmlUrl="https://visualstudiomagazine.com/rss-feeds/blogs.aspx" htmlUrl="https://visualstudiomagazine.com/rss-feeds/blogs.aspx"/>
+            <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/articles/"/>
+            <outline type="rss" text="CocoaPods" title="CocoaPods" xmlUrl="http://feeds.cocoapods.org/new-pods.rss" htmlUrl="http://www.cocoapods.org"/>
+            <outline type="rss" text="The dot Post" title="The dot Post" xmlUrl="http://www.thedotpost.com/feeds/global/rss.xml" htmlUrl="http://www.thedotpost.com/"/>
+        </outline>
+        <outline text="My Feeds" title="My Feeds">
+            <outline type="rss" text="456 Berea Street" title="456 Berea Street" xmlUrl="http://feeds.feedburner.com/456bereastreet" htmlUrl="http://www.456bereastreet.com/"/>
+        </outline>
+        <outline text="Windows" title="Windows">
+            <outline type="rss" text="Les News du Laboratoire Microsoft" title="Les News du Laboratoire Microsoft" xmlUrl="http://www.labo-microsoft.org/news/rss/" htmlUrl="http://labo-microsoft.supinfo.com"/>
+            <outline type="rss" text="Les Articles du Laboratoire Microsoft" title="Les Articles du Laboratoire Microsoft" xmlUrl="http://www.labo-microsoft.org/articles/rss/" htmlUrl="http://labo-microsoft.supinfo.com"/>
+        </outline>
+        <outline text="Technologies" title="Technologies">
+            <outline type="rss" text="Technologies - LeMonde.fr" title="Technologies - LeMonde.fr" xmlUrl="http://rss.lemonde.fr/c/205/f/3061/index.rss" htmlUrl="https://www.lemonde.fr/technologies/rss_full.xml"/>
+            <outline type="rss" text="BDNooZ" title="BDNooZ" xmlUrl="http://bdnooz.com/feed/" htmlUrl="http://bdnooz.com"/>
+            <outline type="rss" text="Camptocamp Blog » Business Solutions" title="Camptocamp Blog » Business Solutions" xmlUrl="http://www.camptocamp.com/fr/blog/category/business-solutions/?feed=rss2"/>
+            <outline type="rss" text="GeekBrief.TV" title="GeekBrief.TV" xmlUrl="http://geekbeat.tv/feed/" htmlUrl="http://geekbeat.tv"/>
+        </outline>
+        <outline text="MAC" title="MAC">
+            <outline type="rss" text="MacBidouille.com" title="MacBidouille.com" xmlUrl="http://feeds.macbidouille.com/macbidouille/" htmlUrl="http://macbidouille.com/"/>
+            <outline type="rss" text="Apple - Actualites" title="Apple - Actualites" xmlUrl="http://images.apple.com/fr/main/rss/hotnews/hotnews.rss" htmlUrl="http://www.apple.com/hotnews/"/>
+        </outline>
+        <outline text="Data" title="Data">
+            <outline type="rss" text="Information is Beautiful" title="Information is Beautiful" xmlUrl="http://feeds.feedburner.com/InformationIsBeautiful" htmlUrl="https://informationisbeautiful.net"/>
+            <outline type="rss" text="information aesthetics" title="information aesthetics" xmlUrl="http://infosthetics.com/atom.xml" htmlUrl="http://infosthetics.com/"/>
+        </outline>
+    </body>
+</opml>
